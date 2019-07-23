@@ -1,0 +1,13 @@
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\bin\Debug\netcoreapp2.2\CoreWebApplicationForContainer.deps.json
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\bin\Debug\netcoreapp2.2\CoreWebApplicationForContainer.runtimeconfig.json
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\bin\Debug\netcoreapp2.2\CoreWebApplicationForContainer.runtimeconfig.dev.json
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\bin\Debug\netcoreapp2.2\CoreWebApplicationForContainer.dll
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\bin\Debug\netcoreapp2.2\CoreWebApplicationForContainer.pdb
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\obj\Debug\netcoreapp2.2\CoreWebApplicationForContainer.csproj.CoreCompileInputs.cache
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\obj\Debug\netcoreapp2.2\CoreWebApplicationForContainer.RazorAssemblyInfo.cache
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\obj\Debug\netcoreapp2.2\CoreWebApplicationForContainer.RazorAssemblyInfo.cs
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\obj\Debug\netcoreapp2.2\CoreWebApplicationForContainer.AssemblyInfoInputs.cache
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\obj\Debug\netcoreapp2.2\CoreWebApplicationForContainer.AssemblyInfo.cs
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\obj\Debug\netcoreapp2.2\CoreWebApplicationForContainer.RazorTargetAssemblyInfo.cache
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\obj\Debug\netcoreapp2.2\CoreWebApplicationForContainer.dll
+C:\Users\TEKenable\source\repos\CoreWebApplicationForContainer\obj\Debug\netcoreapp2.2\CoreWebApplicationForContainer.pdb
